@@ -57,7 +57,7 @@ function renderCards(spots) {
   }
   grid.innerHTML = spots.map((s, i) => `
     <a class="card" href="spots/${s.id}.html" tabindex="0" style="animation-delay:${i * 0.05}s">
-      <div class="card-img" style="background:${s.gradient}"></div>
+      <div class="card-img" style="background-image:url('assets/images/${s.id}-1.jpg'),${s.gradient}"></div>
       <div class="card-body">
         <h3>${s.name}</h3>
         <div class="city">${s.city}</div>

@@ -48,7 +48,8 @@ spots/                  10 个景点详情页
 css/style.css           公共样式（深色玻璃拟态设计系统）
 js/main.js              公共脚本（数据加载 / 搜索 / 筛选 / 轮播 / 导航 / 返回顶部）
 data/spots.json         景点结构化数据（供首页 fetch 加载）
-assets/images/          图片资源（当前以纯色渐变占位）
+assets/images/          景点图片（Wikimedia Commons，CC BY-SA，30 张）
+ATTRIBUTION.md          图片版权与致谢
 旅行攻略网站需求.md      需求文档
 ```
 

@@ -1,0 +1,412 @@
+{
+  "great-wall": [
+    {
+      "file": "assets/images/great-wall-1.jpg",
+      "title": "File:Badaling China Great-Wall-of-China-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "CEphoto, Uwe Aranas",
+      "desc": "Badaling, China: Great Wall of China at Badaling",
+      "bytes": 176445,
+      "quality": 72,
+      "dims": [
+        960,
+        615
+      ]
+    },
+    {
+      "file": "assets/images/great-wall-2.jpg",
+      "title": "File:Badaling Great Wall (South) in snow 20261108 02.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Steven Sun",
+      "desc": "Badaling Great Wall in snow",
+      "bytes": 198875,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    },
+    {
+      "file": "assets/images/great-wall-3.jpg",
+      "title": "File:Badaling Great Wall (South) in snow 20261108 01.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Steven Sun",
+      "desc": "Badaling Great Wall in snow",
+      "bytes": 175063,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    }
+  ],
+  "forbidden-city": [
+    {
+      "file": "assets/images/forbidden-city-1.jpg",
+      "title": "File:Sunset of the Forbidden City 2006.JPG",
+      "license": "CC BY-SA 3.0",
+      "artist": "User:kallgan",
+      "desc": "Sunset of the northwest corner of the Forbidden City.",
+      "bytes": 127082,
+      "quality": 78,
+      "dims": [
+        960,
+        720
+      ]
+    },
+    {
+      "file": "assets/images/forbidden-city-2.jpg",
+      "title": "File:Beijing forbidden city Belvedere of Embodying Benevolence-20071018-RM-142403.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Ermell",
+      "desc": "Belvedere of Embodying Benevolence in the forbidden city in Beijing",
+      "bytes": 189521,
+      "quality": 78,
+      "dims": [
+        960,
+        656
+      ]
+    },
+    {
+      "file": "assets/images/forbidden-city-3.jpg",
+      "title": "File:The Forbidden City - View from Coal Hill.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Pixelflake",
+      "desc": "A (HDR-) photograph shot from the Jingshan Park (aka Coal Hill or Prospect Hill).",
+      "bytes": 63578,
+      "quality": 78,
+      "dims": [
+        960,
+        480
+      ]
+    }
+  ],
+  "terracotta-army": [
+    {
+      "file": "assets/images/terracotta-army-1.jpg",
+      "title": "File:51714-Terracota-Army.jpg",
+      "license": "CC BY 2.0",
+      "artist": "xiquinhosilva",
+      "desc": "Terracotta Army in Xi'an, China",
+      "bytes": 171572,
+      "quality": 78,
+      "dims": [
+        960,
+        636
+      ]
+    },
+    {
+      "file": "assets/images/terracotta-army-2.jpg",
+      "title": "File:Qin Shihuang Terracotta Army, Pit 1.jpg",
+      "license": "CC0",
+      "artist": "Gary Todd",
+      "desc": "Lintong: Terracotta Army of Qin Shihuang. Complete indexed photo collection at www.WorldHistoryPics.com.",
+      "bytes": 153123,
+      "quality": 78,
+      "dims": [
+        960,
+        720
+      ]
+    },
+    {
+      "file": "assets/images/terracotta-army-3.jpg",
+      "title": "File:Terracotta Army, View of Pit 1.jpg",
+      "license": "CC BY 3.0",
+      "artist": "Jmhullot",
+      "desc": "Pit one, which is 230 metres (750 ft) long and 62 metres (203 ft) wide,[30] contains the main army of more than 6,000 figures.[31] Pit one h",
+      "bytes": 187285,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    }
+  ],
+  "zhangjiajie": [
+    {
+      "file": "assets/images/zhangjiajie-1.jpg",
+      "title": "File:Zhangjiajie National Forest Park.jpg",
+      "license": "CC BY 2.0",
+      "artist": "Kuruman from Tokyo, Japan",
+      "desc": "Zhangjiajie National Forest Park",
+      "bytes": 147846,
+      "quality": 78,
+      "dims": [
+        960,
+        720
+      ]
+    },
+    {
+      "file": "assets/images/zhangjiajie-2.jpg",
+      "title": "File:Zhangjiajie National Forest Park 38023-Zhangjiajie (48757574461).jpg",
+      "license": "CC BY 2.0",
+      "artist": "xiquinhosilva",
+      "desc": "38023-Zhangjiajie",
+      "bytes": 143618,
+      "quality": 72,
+      "dims": [
+        960,
+        581
+      ]
+    },
+    {
+      "file": "assets/images/zhangjiajie-3.jpg",
+      "title": "File:Zhangjiajie National Forest Park 38099-Zhangjiajie (48757253473).jpg",
+      "license": "CC BY 2.0",
+      "artist": "xiquinhosilva",
+      "desc": "38099-Zhangjiajie",
+      "bytes": 174742,
+      "quality": 72,
+      "dims": [
+        960,
+        613
+      ]
+    }
+  ],
+  "jiuzhaigou": [
+    {
+      "file": "assets/images/jiuzhaigou-1.jpg",
+      "title": "File:1 jiuzhaigou valley wu hua hai 2011b.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Chensiyuan",
+      "desc": "Landscape of Five Flower Lake (pinyin: Wǔhuā Hǎi) in Rize Valley (pinyin: Rìzé Gōu), Jiuzhaigou Valley National Park, Sichuan Province, West",
+      "bytes": 183135,
+      "quality": 72,
+      "dims": [
+        960,
+        639
+      ]
+    },
+    {
+      "file": "assets/images/jiuzhaigou-2.jpg",
+      "title": "File:Jiuzhaigou Sichuan China Jiuzhaigou-Valley-02.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "CEphoto, Uwe Aranas",
+      "desc": "Jiuzhaigou, Sichuan, China: Waterfall in Jiuzhaigou Valley",
+      "bytes": 198867,
+      "quality": 60,
+      "dims": [
+        960,
+        640
+      ]
+    },
+    {
+      "file": "assets/images/jiuzhaigou-3.jpg",
+      "title": "File:Jiu Zhai Gou, Sichuan China.jpg",
+      "license": "CC BY 2.0",
+      "artist": "ming1967",
+      "desc": "Mountains of Sichuan- The magnificent colors of Autumn are everywhere...",
+      "bytes": 156221,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    }
+  ],
+  "huangshan": [
+    {
+      "file": "assets/images/huangshan-1.jpg",
+      "title": "File:Huangshan mist 20141109.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "颐园居",
+      "desc": "​云雾中的黄山景区",
+      "bytes": 117883,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    },
+    {
+      "file": "assets/images/huangshan-2.jpg",
+      "title": "File:Mount-huangshan 53319729912.jpg",
+      "license": "CC BY 2.0",
+      "artist": "xiquinhosilva",
+      "desc": "Mount Huangshan, Anhui, China",
+      "bytes": 190953,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    },
+    {
+      "file": "assets/images/huangshan-3.jpg",
+      "title": "File:Mount-huangshan 53320601421 o.jpg",
+      "license": "CC BY 2.0",
+      "artist": "xiquinhosilva",
+      "desc": "Mount Huangshan, Anhui, China",
+      "bytes": 165899,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    }
+  ],
+  "west-lake": [
+    {
+      "file": "assets/images/west-lake-1.jpg",
+      "title": "File:20260424 West Lake and Hangzhou Skyline.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Windmemories",
+      "desc": "West Lake and Hangzhou Skyline",
+      "bytes": 126372,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    },
+    {
+      "file": "assets/images/west-lake-2.jpg",
+      "title": "File:West Lake, Hangzhou (Wanzi Pavilion).jpg",
+      "license": "Public domain",
+      "artist": "Sekino Tadashi",
+      "desc": "西湖 卍亭 (浙江 杭州)",
+      "bytes": 159947,
+      "quality": 72,
+      "dims": [
+        960,
+        701
+      ]
+    },
+    {
+      "file": "assets/images/west-lake-3.jpg",
+      "title": "File:West Lake, Hangzhou (Nine-turn bridge).jpg",
+      "license": "Public domain",
+      "artist": "Sekino Tadashi",
+      "desc": "西湖 先賢祠 九曲橋 (浙江 杭州)",
+      "bytes": 193610,
+      "quality": 78,
+      "dims": [
+        960,
+        663
+      ]
+    }
+  ],
+  "guilin": [
+    {
+      "file": "assets/images/guilin-1.jpg",
+      "title": "File:1 li jiang guilin yangshuo 2011.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "chensiyuan",
+      "desc": "li jiang li river guilin yangshuo china 2011 karst raft",
+      "bytes": 151294,
+      "quality": 78,
+      "dims": [
+        960,
+        636
+      ]
+    },
+    {
+      "file": "assets/images/guilin-2.jpg",
+      "title": "File:Li River cruise from Guilin to Yangshuo.JPG",
+      "license": "CC0",
+      "artist": "Flora-Victoria",
+      "desc": "Li River cruise from Guilin to Yangshuo",
+      "bytes": 171893,
+      "quality": 78,
+      "dims": [
+        960,
+        720
+      ]
+    },
+    {
+      "file": "assets/images/guilin-3.jpg",
+      "title": "File:Li River - Fubo park, Guilin (360456752).jpg",
+      "license": "CC BY 2.0",
+      "artist": "B_cool from SIN, Singapore",
+      "desc": "Activities start along the river as the sun rises.",
+      "bytes": 100663,
+      "quality": 78,
+      "dims": [
+        900,
+        598
+      ]
+    }
+  ],
+  "potala-palace": [
+    {
+      "file": "assets/images/potala-palace-1.jpg",
+      "title": "File:Potala.jpg",
+      "license": "CC BY 2.5",
+      "artist": "Ondřej Žváček",
+      "desc": "View of the Potala Palace from the foothill of Chagpo Ri (Lhasa, Tibet Autonomous Region, People's Republic of China).",
+      "bytes": 179777,
+      "quality": 78,
+      "dims": [
+        960,
+        640
+      ]
+    },
+    {
+      "file": "assets/images/potala-palace-2.jpg",
+      "title": "File:Inside the Potala Palace in Lhasa, Tibet.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Jan Kranendonk (https://www.jankranendonk.nl)",
+      "desc": "Potala Palace in Lhasa, Tibet",
+      "bytes": 152431,
+      "quality": 78,
+      "dims": [
+        960,
+        642
+      ]
+    },
+    {
+      "file": "assets/images/potala-palace-3.jpg",
+      "title": "File:View from the Potala Palace in Lhasa, Tibet.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Jan Kranendonk (https://www.jankranendonk.nl)",
+      "desc": "View of Lhasa from the entrance to the Potala Palace in Lhasa, Tibet",
+      "bytes": 142788,
+      "quality": 78,
+      "dims": [
+        960,
+        642
+      ]
+    }
+  ],
+  "lijiang": [
+    {
+      "file": "assets/images/lijiang-1.jpg",
+      "title": "File:1 lijiang old town night.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "chensiyuan",
+      "desc": "old town of lijiang yunnan china 2012 night unesco world heritage site",
+      "bytes": 113795,
+      "quality": 78,
+      "dims": [
+        960,
+        486
+      ]
+    },
+    {
+      "file": "assets/images/lijiang-2.jpg",
+      "title": "File:Lijiang Yunnan Heritage-shops-in-old-town-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "CEphoto, Uwe Aranas",
+      "desc": "Lijiang, Yunnan, China: Heritage shops in the old town of Lijiang. The ensemble of buildings is listed as UNESCO World Cultural Heritage",
+      "bytes": 171432,
+      "quality": 78,
+      "dims": [
+        960,
+        616
+      ]
+    },
+    {
+      "file": "assets/images/lijiang-3.jpg",
+      "title": "File:Lijiang Yunnan China-Firefighting-Equipment-in-Old-Town-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "CEphoto, Uwe Aranas",
+      "desc": "Lijiang, Yunnan, China: Firefighting equipment in the heritage old town of Lijiang",
+      "bytes": 184197,
+      "quality": 78,
+      "dims": [
+        960,
+        613
+      ]
+    }
+  ]
+}
